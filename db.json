@@ -1,8 +1,5 @@
-{
-  "orders": [
-    { "id": 1, "titulo": "#983 Order 1", "endereco": "Rua Irma Arminda, 2-48 - Jardim Brasil", "itens": [{"quantidade": 2, "nome": "Bibshiha"}, {"quantidade": 3, "nome": "Bibshiha Queijo"}],  "valor": 24.00, "finCodigo": 12312},
-    { "id": 1, "titulo": "#983 Order 1", "endereco": "Rua Irma Arminda, 2-48 - Jardim Brasil", "itens": [{"quantidade": 2, "nome": "Bibshiha"}, {"quantidade": 3, "nome": "Bibshiha Queijo"}],  "valor": 24.00, "finCodigo": 12312},
-    { "id": 1, "titulo": "#983 Order 1", "endereco": "Rua Irma Arminda, 2-48 - Jardim Brasil", "itens": [{"quantidade": 2, "nome": "Bibshiha"}, {"quantidade": 3, "nome": "Bibshiha Queijo"}],  "valor": 24.00, "finCodigo": 12312},
-    { "id": 1, "titulo": "#983 Order 1", "endereco": "Rua Irma Arminda, 2-48 - Jardim Brasil", "itens": [{"quantidade": 2, "nome": "Bibshiha"}, {"quantidade": 3, "nome": "Bibshiha Queijo"}],  "valor": 24.00, "finCodigo": 12312}
-  ]
-}
+
+  {
+    "orders": [
+      { "id": 1, "titulo": "#983 Order 1", "endereco": "Rua Irma Arminda, 2-48 - Jardim Brasil"}]
+  }
